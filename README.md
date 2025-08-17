@@ -36,3 +36,4 @@ The cleaned data was loaded into a PostgreSQL database and analyzed using SQL to
 
 ### 3. How did the top 3 platforms' sales evolve over time?
 * **Finding:** The analysis of the top 3 platforms (PlayStation 2, Xbox 360, and PlayStation 3) clearly visualizes the life cycle of a console generation. Each platform shows a rise to a peak sales year, followed by a steady decline as the next generation emerges and takes over the market.
+* **Script:** [`04_platform_sales_evolution.sql`](./sql_scripts/04_platform_sales_evolution.sql)
